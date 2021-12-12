@@ -14,15 +14,11 @@ background-color: black;
     width: 1920px;
     bottom: 8px;
     right: 8px;
-    background-color: rgb(255, 250, 250);
-   
-    
-    
-    
+    background-color: rgb(255, 250, 250);    
 }
 
 .black{
-    background-color: rgb(77, 76, 76);
+    background-color: rgb(209, 195, 195);
 }
 
 b{
@@ -63,7 +59,7 @@ a{
     bottom: 5px;
 }
 
-#user{
+#instagram{
     position: relative;
     left: 1450px;
     top: 5px;
@@ -72,9 +68,15 @@ a{
     
 }
 
-#phone{
+#facebook{
     position: relative;
-    left: 1500px;
+    left: 1470px;
+    top: 5px;
+}
+
+#twitter{
+    position: relative;
+    left: 1490px;
     top: 5px;
 }
 
@@ -107,6 +109,34 @@ button{
     bottom: 3px;
 }
 
+#gray{
+    position: relative;
+    left: 60px;
+    width: 1800px;
+    bottom: 8px;
+}
 
+#news{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    height: 500px;
+    
+}
 
+#windows{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 500px;
+}
 
+#windows1{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#windows2{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

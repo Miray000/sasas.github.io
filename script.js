@@ -7,3 +7,9 @@ $(function(){
        
     });
 });
+
+$(function() {
+    $("#phone").click(function() {
+        $("#smartphone").slideToggle(500);
+    });
+});
